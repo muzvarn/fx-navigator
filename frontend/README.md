@@ -1,1 +1,3 @@
-frontend/README.md
+# Frontend
+
+Next.js application for FX Navigator.
