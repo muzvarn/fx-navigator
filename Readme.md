@@ -1,4 +1,4 @@
-# FX Navigator
+#FX Navigator
 
 ## Personal Investment Dashboard
 
